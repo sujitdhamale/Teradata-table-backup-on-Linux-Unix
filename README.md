@@ -28,5 +28,5 @@
 	
 ---------------------------------------------------------------------------------------
 #### Relaod data (to retrive backup into  original table )
-###### Using mload command data can be relaoded 
+###### Using mload file cretaed by above script data can be relaod
 
